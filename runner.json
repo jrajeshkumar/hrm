@@ -1,0 +1,8 @@
+[
+	{
+		"uid": "node",
+		"script": "app.js",
+		"append": true,
+		"sourceDir": "./"
+	}
+]

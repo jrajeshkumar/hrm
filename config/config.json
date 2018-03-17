@@ -1,0 +1,11 @@
+{
+	"tokenString"	:	"hrmanagement",
+	"status"		:	{
+		"SUCCESS"	:	"Success",
+		"ERROR"		:	"Error",
+		"NoResult"	:	"No Result Found",
+"TaskCreationSuccess" : "Task Created Successfully",
+"TaskUpdatedSuccess" : "Task Updated Successfully",
+"AppraisalCreatedSuccessfully" : "APPRAISAL CREATED SUCCESSFULLY"
+	}
+}
